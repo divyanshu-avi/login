@@ -1,5 +1,5 @@
 {
-   {
+   "credentials": {
       "email": "test@example.com",
       "password": "12345"   
     }
